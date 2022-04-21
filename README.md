@@ -11,7 +11,7 @@ I was {verb,ing} the waves until a(n) {noun} came and {adverb} {verb,ed} my {nou
 If it's a lib, it'll ask for the player:
 * `{verb}` is for a verb *(drink, swim, jump)*
 * `{verb,ing}` is for a verb in past tense *(drank, swam, jumped)*
-* `{verb,en}` is for a verb in present tense *drinking, swimming, jumping*
+* `{verb,en}` is for a verb in present tense *(drinking, swimming, jumping)*
 * `{noun}` is for a noun *(cat, book, bullet)*
 * `{pluralnoun}` is for a plural noun *(cats, books, bullets)*
 * `{propernoun}` is for a proper noun *(Doe, Pete's Pizza, The Book of Thousand Truths)*
