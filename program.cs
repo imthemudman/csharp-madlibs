@@ -17,8 +17,8 @@ class DotnetProgram
                 switch(myMadlib[madlibArray])
                 {
                     case "{verb}": Console.Write("Give me a verb: "); myMadlib[madlibArray] = Console.ReadLine(); break;
-                    case "{verb,ing}": Console.Write("Give me a verb with -ing: "); myMadlib[madlibArray] = Console.ReadLine(); break;
-                    case "{verb,ed}": Console.Write("Give me a verb with -ed: "); myMadlib[madlibArray] = Console.ReadLine(); break;
+                    case "{verb,ing}": Console.Write("Give me a verb with -ing or in present tense: "); myMadlib[madlibArray] = Console.ReadLine(); break;
+                    case "{verb,ed}": Console.Write("Give me a verb with -ed or in past tense: "); myMadlib[madlibArray] = Console.ReadLine(); break;
                     case "{noun}": Console.Write("Give me a noun: "); myMadlib[madlibArray] = Console.ReadLine(); break;
                     case "{pluralnoun}": Console.Write("Give me a plural noun: "); myMadlib[madlibArray] = Console.ReadLine(); break;
                     case "{propernoun}": Console.Write("Give me a proper noun: "); myMadlib[madlibArray] = Console.ReadLine(); break;
