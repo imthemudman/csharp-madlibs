@@ -1,0 +1,3 @@
+It's raining {pluralnoun} and {pluralnoun} tonight at {propernoun}
+{noun,proper} {adverb} {verb,ed} into a bank of {abjective} {pluralnoun} during a(n) {abjective} robbery and {verb,ed} like a(n) {noun}
+I was {verb,ing} the waves until a(n) {noun} came and {adverb} {verb,ed} my {noun}

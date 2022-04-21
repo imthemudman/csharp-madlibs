@@ -1,0 +1,16 @@
+C:\Users\sglaw\Desktop\git\csharp-madlibs\bin\Debug\net5.0\csharp-madlibs.exe
+C:\Users\sglaw\Desktop\git\csharp-madlibs\bin\Debug\net5.0\csharp-madlibs.deps.json
+C:\Users\sglaw\Desktop\git\csharp-madlibs\bin\Debug\net5.0\csharp-madlibs.runtimeconfig.json
+C:\Users\sglaw\Desktop\git\csharp-madlibs\bin\Debug\net5.0\csharp-madlibs.runtimeconfig.dev.json
+C:\Users\sglaw\Desktop\git\csharp-madlibs\bin\Debug\net5.0\csharp-madlibs.dll
+C:\Users\sglaw\Desktop\git\csharp-madlibs\bin\Debug\net5.0\ref\csharp-madlibs.dll
+C:\Users\sglaw\Desktop\git\csharp-madlibs\bin\Debug\net5.0\csharp-madlibs.pdb
+C:\Users\sglaw\Desktop\git\csharp-madlibs\obj\Debug\net5.0\csharp-madlibs.csprojAssemblyReference.cache
+C:\Users\sglaw\Desktop\git\csharp-madlibs\obj\Debug\net5.0\csharp-madlibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sglaw\Desktop\git\csharp-madlibs\obj\Debug\net5.0\csharp-madlibs.AssemblyInfoInputs.cache
+C:\Users\sglaw\Desktop\git\csharp-madlibs\obj\Debug\net5.0\csharp-madlibs.AssemblyInfo.cs
+C:\Users\sglaw\Desktop\git\csharp-madlibs\obj\Debug\net5.0\csharp-madlibs.csproj.CoreCompileInputs.cache
+C:\Users\sglaw\Desktop\git\csharp-madlibs\obj\Debug\net5.0\csharp-madlibs.dll
+C:\Users\sglaw\Desktop\git\csharp-madlibs\obj\Debug\net5.0\ref\csharp-madlibs.dll
+C:\Users\sglaw\Desktop\git\csharp-madlibs\obj\Debug\net5.0\csharp-madlibs.pdb
+C:\Users\sglaw\Desktop\git\csharp-madlibs\obj\Debug\net5.0\csharp-madlibs.genruntimeconfig.cache
