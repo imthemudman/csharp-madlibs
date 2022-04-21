@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: C# Mad-libs
+description: A mad-libs clone written as a C# dotnet console application
+show_downloads: true
